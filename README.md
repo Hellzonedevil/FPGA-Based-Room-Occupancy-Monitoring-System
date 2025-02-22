@@ -1,5 +1,4 @@
 This project file contains my Project files for COEN313 (Fall 2024).
-Name: Sarvesh Sai Rajesh
 
 File Description:
 1) 40231819_COEN313 Project: Is the report of the COEN313 Project in the pdf form.
