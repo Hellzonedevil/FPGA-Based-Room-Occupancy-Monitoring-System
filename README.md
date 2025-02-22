@@ -12,3 +12,5 @@ Execution Instructions:
 1. Open ModelSim or Vivado.
 2. Compile `RoomOccupancyController.vhd` and `tb_RoomOccupancyController.vhd`.
 3. Run the testbench (`tb_RoomOccupancyController`) to simulate and view the waveforms.
+
+Thank you 😊
